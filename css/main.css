@@ -396,4 +396,44 @@ img {
 .button {
   padding: 0;
 }
+
+.table {
+  border: 2px solid dimgray;
+  border-collapse: collapse;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+tbody {
+  border: 2px solid dimgray;
+}
+
+th {
+  border: 2px solid dimgray;
+}
+
+tr {
+  border: 2px solid dimgray;
+}
+
+tr th td {
+  padding: 13px 40px;
+  text-align: center;
+  border: 1px solid dimgray;
+}
+
+td {
+  text-align: center;
+  border: 2px solid dimgray;
+  padding: 10px 20px;
+}
+
+.table__number {
+  padding: 10px 15px;
+}
+
+.th {
+  border: solid 2x dimgray;
+  padding: 10px 35pxpx;
+}
 /*# sourceMappingURL=main.css.map */
